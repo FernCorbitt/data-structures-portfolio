@@ -12,3 +12,4 @@ This website will document my learning and projects throughout the semester.
 - [Blog](blog/blog.md)
 - [Projects](projects.md)
 - [Resume](Fern_Corbitt_Project_Resume.pdf)
+- [LinkedIn Page](https://www.linkedin.com/in/fern-corbitt-2ba927328/)
