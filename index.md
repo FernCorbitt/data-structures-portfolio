@@ -17,4 +17,4 @@ This website will document my learning and projects throughout the semester.
 - [Resume](Fern_Corbitt_Project_Resume.pdf)
 - [LinkedIn Page](https://www.linkedin.com/in/fern-corbitt-2ba927328/)
 - [Research Question](Research_Question)
-- [Ethical Constrains and Potential Limitations](Ethics_and_Limitations)
+- [Ethical Constrains and Potential Limitations](ethics_and_limitations)
