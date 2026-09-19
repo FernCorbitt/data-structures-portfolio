@@ -18,3 +18,4 @@ This website will document my learning and projects throughout the semester.
 - [LinkedIn Page](https://www.linkedin.com/in/fern-corbitt-2ba927328/)
 - [Research Question](Research_Question.md)
 - [Ethical Constrains and Potential Limitations](ethics_and_limitations.md)
+- [Deployment Log and AI Transparency](AI_Transparency.md)
