@@ -1,2 +1,4 @@
-I want to explore the relationship between a players environment, and their performance. People have debated the advantages of famous fields like Fenway, Wrigly, or Yankees field for years. 
-If a stadium is considered "hitter friendly," does it result in a higher runs-per-game average than a stadium considered "pitcher friendly"
+TITLE
+
+My data will focus only on the 2015-2025 season, and might What is the average difference in team season home runs 
+between the stadium at the highest altitude vs. the stadium at the lowest altitude
