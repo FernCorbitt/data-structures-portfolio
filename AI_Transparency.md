@@ -1,7 +1,7 @@
 
 # AI Usage (All From Chat GPT or Google AI responses)
 
-## ([This link](https://github.com/FernCorbitt/data-structures-portfolio/deployments)) leads to my repository deployment log
+## [This link](https://github.com/FernCorbitt/data-structures-portfolio/deployments) leads to my repository deployment log
 
 ### Bringing in Data
 The primary way I used AI was for the basics of finding and using APIs, or just large datasets as a whole. I started with just a basic overview of simple things python can do with large datasets, what they might be used for, for this project or for a data science career.
