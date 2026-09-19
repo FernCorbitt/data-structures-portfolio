@@ -19,3 +19,4 @@ This website will document my learning and projects throughout the semester.
 - [Research Question](Research_Question.md)
 - [Ethical Constrains and Potential Limitations](ethics_and_limitations.md)
 - [Deployment Log and AI Transparency](AI_Transparency.md)
+- [Concept Variables and Context](Concept_Variables_and_Context.md)
