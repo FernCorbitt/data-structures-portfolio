@@ -1,4 +1,4 @@
-# Context and Research
+# Project 2 Context and Research
 
 Quantifying player skill is a huge part of baseball in every aspect of the game. Owners want to avoid overpaying players or putting too much money into a failing franchise. Especially if they have been a historically bad team like the Angels or Rockies.
 Similarly, front-office staff work within a relative budget, often set by the team Owner and/or President. It’s always a huge risk to sign any player to a large multi-year deal, especially in recent years as most teams shift to a power-focused approach, resulting in lower offensive output across the league. 
