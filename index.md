@@ -14,6 +14,7 @@ This website will document my learning and projects throughout the semester.
 ## Portfolio
 - [Blog](blog/blog.md)
 - [Projects](projects.md)
+- [Project 1](Project_1)
 - [Resume](Fern_Corbitt_Project_Resume.pdf)
 - [LinkedIn Page](https://www.linkedin.com/in/fern-corbitt-2ba927328/)
 - [Research Question](Research_Question.md)
